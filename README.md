@@ -21,4 +21,4 @@ There will be five projects across this course to demonstrate understanding in f
 4. Creating visual-based communications
 5. Creating data from digital sources
 
-**Thank you for being a part of my journey in discovering data science**
+**Thank you for being a part of my journey in discovering data science. [I love statistics!](https://swan683.github.io/stats220/)**
